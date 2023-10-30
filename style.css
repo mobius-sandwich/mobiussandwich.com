@@ -4,6 +4,7 @@ body {
     height: 100vh;
     perspective: 40em;
     background: #000;
+    color: white;
 }
 
 .assembly {
